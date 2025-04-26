@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>🌾 Farmer's Friend</title>
+    <title>🌾 Farmers Friend</title>
     <style>
         body {
             font-family: Arial, sans-serif;
